@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to Porro's profile! 👌☕</h1>
 <h3 align="center">sic parvis magna.</h1>
-<h5 align="center">(yeah, actually from Uncharted)</h5>
+<h5 align="center">(yeah, that is actually from Uncharted)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zPirroZ3007" alt="zPirroZ3007" /> </p>
 
-I'm mainly a **Java Dev**. Actually my main concern is **game developing**, which is my dream job.
-Actually CEO at **Pirro Productions**, a game development software house.
+I'm mainly a **Java Dev**. My main occupation is **game developing**, which is my dream job.
+I'm the CEO of **Pirro Productions**, a game development software house.
 If you wanna know more about me, visit my [**devfolio**](https://www.pirro.me)
 
 [**TecnoCraft**](https://github.com/TecnoCraftNet) - I usually work for the **TecnoCraft** project. A Minecraft Roleplay community (actually the biggest one in Italy).

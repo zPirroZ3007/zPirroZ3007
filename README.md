@@ -2,7 +2,8 @@
 <h3 align="center">sic parvis magna.</h1>
 <h5 align="center">(yeah, actually from Uncharted)</h5>
 
-![](https://komarev.com/ghpvc/?username=zPirroZ3007)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zPirroZ3007" alt="zPirroZ3007" /> </p>
+
 I'm mainly a <b>Java Dev</b>. Actually my main concern is <b>game developing</b>, which is my dream job.
 Actually CEO at <b>Pirro productions</b> a game development software house.
 If you wanna know more about me, visit my <b>[devfolio](https://www.pirro.me)</b>

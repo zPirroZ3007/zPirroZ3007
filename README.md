@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zPirroZ3007" alt="zPirroZ3007" /> </p>
 
 I'm mainly a **Java Dev**. Actually my main concern is **game developing**, which is my dream job.
-Actually CEO at **Pirro productions** a game development software house.
+Actually CEO at **Pirro Productions** a game development software house.
 If you wanna know more about me, visit my [**devfolio**](https://www.pirro.me)
 
 [**TecnoCraft**](https://github.com/TecnoCraftNet) - I usually work at **TecnoCraft** project. A Minecraft Roleplay community (actually the biggest in Italy).
